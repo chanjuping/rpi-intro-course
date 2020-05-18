@@ -1,5 +1,6 @@
 # rpi-intro-course
-Course written for beginners in Raspberry Pi development
+
+This course is written for complete beginners in Raspberry Pi development.
 
 The main file within here is at present, an fodt file that contains the guide written for using the Raspberry Pi with Ubuntu Server for the Raspberry Pi. Attempts have been made to make the guide as platform agnostic as possible for all versions of the Raspberry Pi.
 
